@@ -5,7 +5,7 @@
 * Clean install the application using maven install or maven build and if the Build is Success then
 Run the application as RUN AS SPRING BOOT APP and then it shows the port number on which the 
 Application is running.
-* Open POSTMAN and hit the url with the portnumber http://localhost:9090/bookTrainTicket and provide the JSON data and hit it.
+* Open POSTMAN and hit the url with the portnumber http://localhost:9090 with the url request and provide the JSON data and hit it.
 You will see the generated response .
 ## Sample Request:
 {
